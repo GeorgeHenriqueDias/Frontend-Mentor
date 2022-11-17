@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I've learn some new CSS proprieties, like the * element that aplies to the entirety of the html elements.
-Another thing is to how center a div in a body. I also learned the very basics of GitHub to hoast my work. It felt a little hard, not gonna lie.
+Another thing is to how center a div in a body. I also learned the very basics of GitHub to host my work. It felt a little hard, not gonna lie.
 
 ## Author
 
