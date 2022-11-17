@@ -1,2 +1,2 @@
-# Frontend-Mentor
+# QR Code component
 Frontend Mentor chalenges
