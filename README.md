@@ -40,5 +40,5 @@ Another thing is to how center a div in a body.
 
 ## Author
 
-- Frontend Mentor - [@GeorgeHenriqueDias]https://www.frontendmentor.io/profile/GeorgeHenriqueDias)
+- Frontend Mentor - [@GeorgeHenriqueDias](https://www.frontendmentor.io/profile/GeorgeHenriqueDias)
 - Twitter - [@georgehenridias](https://www.twitter.com/georgehenridias)
